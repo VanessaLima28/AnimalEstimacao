@@ -1,0 +1,16 @@
+C:\Users\genes\Documents\Gama\dotNet_projects\AnimaisEstimação\AnimaisEstimação\bin\Debug\net5.0\AnimaisEstimação.exe
+C:\Users\genes\Documents\Gama\dotNet_projects\AnimaisEstimação\AnimaisEstimação\bin\Debug\net5.0\AnimaisEstimação.deps.json
+C:\Users\genes\Documents\Gama\dotNet_projects\AnimaisEstimação\AnimaisEstimação\bin\Debug\net5.0\AnimaisEstimação.runtimeconfig.json
+C:\Users\genes\Documents\Gama\dotNet_projects\AnimaisEstimação\AnimaisEstimação\bin\Debug\net5.0\AnimaisEstimação.runtimeconfig.dev.json
+C:\Users\genes\Documents\Gama\dotNet_projects\AnimaisEstimação\AnimaisEstimação\bin\Debug\net5.0\AnimaisEstimação.dll
+C:\Users\genes\Documents\Gama\dotNet_projects\AnimaisEstimação\AnimaisEstimação\bin\Debug\net5.0\ref\AnimaisEstimação.dll
+C:\Users\genes\Documents\Gama\dotNet_projects\AnimaisEstimação\AnimaisEstimação\bin\Debug\net5.0\AnimaisEstimação.pdb
+C:\Users\genes\Documents\Gama\dotNet_projects\AnimaisEstimação\AnimaisEstimação\obj\Debug\net5.0\AnimaisEstimação.csproj.AssemblyReference.cache
+C:\Users\genes\Documents\Gama\dotNet_projects\AnimaisEstimação\AnimaisEstimação\obj\Debug\net5.0\AnimaisEstimação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\genes\Documents\Gama\dotNet_projects\AnimaisEstimação\AnimaisEstimação\obj\Debug\net5.0\AnimaisEstimação.AssemblyInfoInputs.cache
+C:\Users\genes\Documents\Gama\dotNet_projects\AnimaisEstimação\AnimaisEstimação\obj\Debug\net5.0\AnimaisEstimação.AssemblyInfo.cs
+C:\Users\genes\Documents\Gama\dotNet_projects\AnimaisEstimação\AnimaisEstimação\obj\Debug\net5.0\AnimaisEstimação.csproj.CoreCompileInputs.cache
+C:\Users\genes\Documents\Gama\dotNet_projects\AnimaisEstimação\AnimaisEstimação\obj\Debug\net5.0\AnimaisEstimação.dll
+C:\Users\genes\Documents\Gama\dotNet_projects\AnimaisEstimação\AnimaisEstimação\obj\Debug\net5.0\ref\AnimaisEstimação.dll
+C:\Users\genes\Documents\Gama\dotNet_projects\AnimaisEstimação\AnimaisEstimação\obj\Debug\net5.0\AnimaisEstimação.pdb
+C:\Users\genes\Documents\Gama\dotNet_projects\AnimaisEstimação\AnimaisEstimação\obj\Debug\net5.0\AnimaisEstimação.genruntimeconfig.cache
